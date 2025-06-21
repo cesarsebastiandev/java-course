@@ -4,8 +4,10 @@ public class Main {
 //        Hello hello = new Hello();
 //        hello.printMessages();
 
-        Variables variables = new Variables();
-        variables.printInfo();
+//        Variables variables = new Variables();
+//        variables.printInfo();
+        SwapDemo swapDemo = new SwapDemo();
+        swapDemo.printInfo();
 
     }
 }
