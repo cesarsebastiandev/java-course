@@ -10,8 +10,11 @@ public class Main {
 //        SwapDemo swapDemo = new SwapDemo();
 //        swapDemo.printInfo();
 
-        UserInput userInput = new UserInput();
-        userInput.showInfo();
+//        UserInput userInput = new UserInput();
+//        userInput.showInfo();
+
+        Expressions expressions = new Expressions();
+        expressions.showInfo();
 
     }
 }
