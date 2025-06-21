@@ -6,8 +6,12 @@ public class Main {
 
 //        Variables variables = new Variables();
 //        variables.printInfo();
-        SwapDemo swapDemo = new SwapDemo();
-        swapDemo.printInfo();
+
+//        SwapDemo swapDemo = new SwapDemo();
+//        swapDemo.printInfo();
+
+        UserInput userInput = new UserInput();
+        userInput.showInfo();
 
     }
 }
