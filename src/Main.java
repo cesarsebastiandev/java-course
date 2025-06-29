@@ -13,8 +13,11 @@ public class Main {
 //        UserInput userInput = new UserInput();
 //        userInput.showInfo();
 
-        Expressions expressions = new Expressions();
-        expressions.showInfo();
+//        Expressions expressions = new Expressions();
+//        expressions.showInfo();
+        MadLibsGame mad = new MadLibsGame();
+        mad.showInfo();
+
 
     }
 }

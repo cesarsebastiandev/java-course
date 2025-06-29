@@ -5,6 +5,10 @@ This repository contains all the code, exercises, and small projects I created w
 ## 📚 Course Topics Covered
 
 - Hello World in Java
+- Variables
+- User input
+- Mad libs game
+- Arithmetic
 
 ---
 
