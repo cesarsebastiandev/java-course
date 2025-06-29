@@ -15,8 +15,11 @@ public class Main {
 
 //        Expressions expressions = new Expressions();
 //        expressions.showInfo();
-        MadLibsGame mad = new MadLibsGame();
-        mad.showInfo();
+
+//        MadLibsGame mad = new MadLibsGame();
+//        mad.showInfo();
+        ArithmeticOperators a = new ArithmeticOperators();
+        a.printInfo();
 
 
     }
